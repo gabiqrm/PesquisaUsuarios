@@ -1,4 +1,7 @@
-## Pesquisa de Usuários 🧍‍♂️🧍‍♀️
+### Pesquisa de Usuários 🧍‍♂️🧍‍♀️
+
+---
+---
 
 <p align="center">
    <img src="image/logo.png" alt="PesquisaUsuarios"/>
