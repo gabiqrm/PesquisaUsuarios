@@ -1,13 +1,12 @@
-### Pesquisa de Usuários 🧍‍♂️🧍‍♀️
+## 🧍‍♂️🧍‍♀️
 
----
 ---
 
 <p align="center">
    <img src="image/logo.png" alt="PesquisaUsuarios"/>
 </p>
 
----
+
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/gabiqrm/PesquisaUsuarios)](https://github.com/gabiqrm/PesquisaUsuarios)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/PesquisaUsuarios)](https://github.com/gabiqrm/PesquisaUsuarios/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/PesquisaUsuarios)](https://github.com/gabiqrm/PesquisaUsuarios/)
@@ -24,16 +23,18 @@ Foram adicionados a estilização e alguns comportamentos.
 ## Objetivo:
 Desenvolver as habilidades em JavaScript, HTML e CSS e requisições HTTP.
 O capítulo foca em requisições HTTP e utilização de Promises, além de trabalhar as formas de manipulação de arrays do JS Moderno e funções de Event Loop
+
 ---
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Bibliotecas e Tecnologias Utilizadas:    
 
-- **[HTML5]**
-- **[JavaScript]**
-- **[CSS3]**
-- **[Bootstrap]** 
-- **[ES6+]**
-- **[Visual Studio Code]**
-
+```
+- HTML5
+- JavaScript
+- CSS3]
+- Bootstrap
+- ES6+
+- Visual Studio Code
+```
 ---
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
 
