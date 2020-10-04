@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pesquisa de Usuários</title>
+  <link rel="stylesheet" href="./css/reset.css">
+  <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./css/styles.css">
+
+
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1 class="tituloPagina">Pesquisa de Usuários</h1>
+      </div>
+    </header>
+    <main>
+      <div class="loader ">
+        <div class="spinner-border" role="status">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-9">
+          <input class="form-control" id="busk" type="text" espaço reservado="Pesquisar:" autocomplete="off"></input>
+        </div>
+        <div class="col-3">
+          <button class="btn btn-dark" id="btnBusk">Buscar</button>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6">
+          <div class="card">
+            <div class="cabeçalho">
+              <span>Usuário(s) Encontrado(s): <span id="totalUsuariosEncontrados">0</span></span>
+            </div>
+            <div id="usuariosEncontrados">
+
+            </div>
+          </div>
+        </div>
+        <div class="col-6">
+          <div class="card">
+            <div class="cabeçalho">
+              <span>Estatísticas:</span>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Sexo Masculino:<span id="SexoMasculino"></span></li>
+              <li class="list-group-item">Sexo Feminino:<span id="SexoFeminino"></span></li>
+              <li class="list-group-item">Soma de idades:<span id="SomaIdades"></span></li>
+              <li class="list-group-item">Média de idades:<span id="MediaIdades"></span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+  </div>
+  </main>
+  <script src="./js/script.js"></script>
+</body>
+
+</html>

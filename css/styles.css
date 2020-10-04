@@ -1,0 +1,45 @@
+.cabeçalho{
+  font-size:18px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.loader{
+  margin: 15px 49%;
+  color: red;
+}
+ul li {
+  font-weight:lighter;
+  margin-top: 10px;
+}
+
+img{
+  margin-right:15px;
+  border-radius:50%;
+  width:60px;
+}
+
+#UsuariosEncontrados  li{
+ display:flex;
+  flex-direction: line;
+  align-items: center;
+  display: block;
+}
+
+.peopleList{
+  margin-left: 10px;
+
+}
+
+.tituloPagina{
+  text-align:center;
+  margin-top:30px ;
+  margin-bottom:30px;
+  padding-top: 10px;
+  display: block;
+}
+
+#busk{
+  width:100%;
+  margin-bottom: 10px;
+}
