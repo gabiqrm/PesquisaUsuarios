@@ -37,11 +37,11 @@ O capítulo foca em requisições HTTP e utilização de Promises, além de trab
 ```
 ---
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
-
+```
 1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/PesquisaUsuarios`
 2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd PesquisaUsuarios`;
 3. Na pasta raiz, executar o arquivo: `index.html`
-
+```
 ---
 ## 🔗 Contribuições:
 ```
