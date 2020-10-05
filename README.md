@@ -1,6 +1,4 @@
-## 🧍‍♂️🧍‍♀️ https://gabiqrm.github.io/PesquisaUsuarios/
-
----
+## 🧍‍♂️🧍‍♀️ 
 
 <p align="center">
    <img src="image/logo.png" alt="PesquisaUsuarios"/>
@@ -12,6 +10,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/gabiqrm/PesquisaUsuarios)](https://github.com/gabiqrm/PesquisaUsuarios)<space> <space>[![GitHub license](https://img.shields.io/github/license/gabiqrm/PesquisaUsuarios)](https://github.com/gabiqrm/PesquisaUsuarios/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/gabiqrm/PesquisaUsuarios)](https://github.com/gabiqrm/PesquisaUsuarios/)
 
 </div>
+
+---
+
+## 🔎 Acesso Rápido:
+https://gabiqrm.github.io/PesquisaUsuarios/
 
 ---
 ## 📋 Sobre: 
